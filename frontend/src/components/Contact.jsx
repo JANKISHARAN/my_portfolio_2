@@ -118,7 +118,7 @@ const Contact = () => {
           {/* Contact Form */}
           <Card className="rounded-2xl border border-slate-100/90 p-8 shadow-lg shadow-slate-200/40">
             <h3 className="text-2xl font-bold text-slate-800 mb-6">Send me a message</h3>
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form action="https://formsubmit.co/js.jankisharan@email.com" method="POST" className="space-y-6">
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-slate-700 mb-2">
                   Your Name
