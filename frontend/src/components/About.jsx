@@ -10,26 +10,26 @@ const About = () => {
   const highlights = [
     {
       icon: Code,
-      title: "Frontend Development",
-      description: "Building responsive and performant web applications with React.js",
+      title: "Software Development",
+      description: "Building scalable and high-performance applications using modern technologies and clean architecture.",
       color: "from-emerald-500 to-teal-500"
     },
     {
       icon: Palette,
-      title: "UI/UX Design",
-      description: "Creating intuitive and beautiful user experiences",
+      title: "Machine Learning",
+      description: "Developing, training, and optimizing machine learning models for prediction, classification, and intelligent decision-making.",
       color: "from-sky-500 to-blue-500"
     },
     {
       icon: BarChart3,
       title: "Data Analysis",
-      description: "Extracting insights from data using Python and ML",
+      description: "Analyzing and interpreting complex datasets using Python to extract meaningful insights and support data-driven decisions.",
       color: "from-purple-500 to-pink-500"
     },
     {
       icon: Lightbulb,
       title: "Problem Solving",
-      description: "Combining creativity with analytical thinking",
+      description: "Applying analytical thinking and logical reasoning to design efficient and innovative solutions to complex challenges.",
       color: "from-orange-500 to-red-500"
     }
   ];
