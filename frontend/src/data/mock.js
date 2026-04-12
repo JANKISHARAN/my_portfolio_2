@@ -1,7 +1,7 @@
 export const portfolioData = {
   personal: {
     name: "Janki Sharan",
-    title: "UI/UX Designer | Frontend Developer | Data Analyst",
+    title: "Software Development | Machine Learning | Data Analyst | Problem Solving",
     location: "Bengaluru, India",
     email: "js.jankisharan@gmail.com",
     phone: "+91 9019941317",
@@ -17,7 +17,7 @@ export const portfolioData = {
   skills: [
     {
       category: "Programming Languages",
-      items: ["Python", "Java", "JavaScript", "MySQL"]
+      items: ["Python", "Java", "C", "C++", "JavaScript", "MySQL"]
     },
     {
       category: "Web Development",
