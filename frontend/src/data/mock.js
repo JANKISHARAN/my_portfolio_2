@@ -49,7 +49,7 @@ export const portfolioData = {
       description: "Built a responsive Weather Dashboard in React using Open-Meteo APIs with automatic browser geolocation. Developed hourly visualization layer with separate charts per parameter using recharts. Created date-range insights page with comparative charts for temperature trends, precipitation, wind speed, and particulate matter.",
       technologies: ["React.js", "Open-Meteo API", "Recharts", "JavaScript"],
       github: "https://github.com/JANKISHARAN",
-      liveUrl: "https://demos.jankisharan.com/weather-dashboard",
+      liveUrl: "https://my-weather-ten.vercel.app/",
       featured: true
     },
     {
@@ -58,7 +58,7 @@ export const portfolioData = {
       description: "Developed a responsive, single-page portfolio to present skills, projects, and contact details. Features responsive layout with CSS Grid/Flexbox, project gallery with modal detail view, smooth scrolling navigation, mobile hamburger menu, and contact form with validation.",
       technologies: ["HTML", "CSS", "JavaScript", "Responsive Design"],
       github: "https://github.com/JANKISHARAN/my_portfolio.git",
-      liveUrl: "https://demos.jankisharan.com/portfolio",
+      liveUrl: "https://my-portfolio-2-232l.vercel.app/",
       featured: false
     }
   ],
