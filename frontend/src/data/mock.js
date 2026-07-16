@@ -5,7 +5,7 @@ export const portfolioData = {
     location: "Bengaluru, India",
     email: "js.jankisharan@gmail.com",
     phone: "+91 9019941317",
-    profileImage: "https://customer-assets.emergentagent.com/job_portfolio-craft-203/artifacts/wn1dh07i_WhatsApp%20Image%202025-06-29%20at%2018.24.20.jpeg",
+    profileImage: "/profile.jpg",
     github: "https://github.com/JANKISHARAN",
     linkedin: "https://www.linkedin.com/in/janki-sharan-468052310",
     // Served from frontend/public/resume.pdf (Vite copies public/ to site root as /resume.pdf)
